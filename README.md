@@ -11,7 +11,7 @@ The first step in the development of this project was to conduct a thorough pre-
 
 After assessing the needs of the company, **Odoo** was chosen as the business management software. Odoo is a complete solution that offers a number of business modules including sales, CRM, project management, warehouse management, manufacturing, financial accounting, and human resources.
 
-!Odoo Logo https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_Official_Logo.png
+![Odoo Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_Official_Logo.png)
 
 ### Company Floor Plan Study
 
