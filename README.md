@@ -14,7 +14,7 @@ After assessing the needs of the company, **Odoo** was chosen as the business ma
 
 ![Odoo Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_Official_Logo.png)
 
-![Odoo Inventory video](https://www.youtube.com/watch?v=dXAEe1FlHqs)
+![Odoo Inventory video](dXAEe1FlHqs)
 
 ### Company Floor Plan Study
 
