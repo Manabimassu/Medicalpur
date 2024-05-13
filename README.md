@@ -16,6 +16,8 @@ After assessing the needs of the company, **Odoo** was chosen as the business ma
 
 ![Odoo Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_Official_Logo.png)
 
+In the following video, there is an overview of the features of the Odoo 17 Inventory module.
+
 [![Odoo Inventory Video](https://img.youtube.com/vi/dXAEe1FlHqs/0.jpg)](https://www.youtube.com/watch?v=dXAEe1FlHqs)
 
 ### Company Floor Plan Study
